@@ -58,8 +58,6 @@ describe("Given I am connected as an employee", () => {
       })
     })
 
-    
-
     //Icon de l'oeil qui ouvre la modal
     describe("When I click on eye icon", () => {
       test("Then a modal should open", async () => {
@@ -126,7 +124,6 @@ describe("Given I am connected as an employee", () => {
     })
   })
 })
-
 
 // test d'intégration GET
 describe("Given I am a user connected as Employee", () => {
